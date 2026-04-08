@@ -8,3 +8,9 @@ Calculate portfolio returns
 Measure risk using statistical metrics
 Visualize performance and volatility
 Build a foundation for financial decision-making
+
+🛠️ Tools & Technologies
+Programming: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Data Source: Yahoo Finance API / Alpha Vantage API
+Environment: Jupyter Notebook / Google Colab
