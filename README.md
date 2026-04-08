@@ -14,3 +14,12 @@ Programming: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Data Source: Yahoo Finance API / Alpha Vantage API
 Environment: Jupyter Notebook / Google Colab
+
+📊 Key Features
+📥 Fetch real-time & historical stock data
+📈 Calculate daily returns and cumulative returns
+📉 Measure volatility (standard deviation)
+⚖️ Risk Metrics:
+Sharpe Ratio
+Value at Risk (VaR)
+📊 Data visualization for insights
