@@ -124,5 +124,5 @@ volatility = returns.std()
 
 
 
-Give it a ⭐ on GitHub and share with others!
+
 
